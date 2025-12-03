@@ -1,18 +1,22 @@
 {
   "spamStates": {
-    "120363423640022194@g.us": {
-      "sharedDelay": 700,
-      "spamDelayMs": 7000,
+    "120363400140211782@g.us": {
+      "isSpamming": true,
+      "spamText": "\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜 \n\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜\n\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜\n\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜\n\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜",
+      "spamDelayMs": 5000
+    },
+    "120363422007741000@g.us": {
+      "spamDelayMs": 4000,
       "spamText": ""
     }
   },
   "ncStates": {
-    "120363423640022194@g.us": {
+    "120363400140211782@g.us": {
       "isRenaming": true,
       "renameList": [
-        "DUCK CHOCLATE GIRL"
+        "SHARAN BHENGA 🦆"
       ],
-      "sharedDelay": 700
+      "ncDelayMs": 700
     }
   }
 }
